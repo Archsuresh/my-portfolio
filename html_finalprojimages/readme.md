@@ -1,1 +1,1 @@
-This folder has all the images for the final project
+A directory for images along with a readme fole
